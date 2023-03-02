@@ -10,7 +10,6 @@
 # 内容列表
 
 ## [Python微信公众号开发](https://github.com/injetlee/Python/tree/master/wechat)
-
 - ### Python 微信公众号开发—小白篇(一)
 
 ### test
