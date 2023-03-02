@@ -3,7 +3,7 @@
 
 ## 左手代码，右手制造，分享智能制造相关技术和业务，包括 Python, C#, 数据库，工业大数据、物联网技术及MES/ERP/SAP等系统。
 
-## 可以通过微信公众号加我好友
+## 可以通过微信公众号加我好
 
 ![二维码](qrcode.jpg)
 
@@ -12,6 +12,8 @@
 ## [Python微信公众号开发](https://github.com/injetlee/Python/tree/master/wechat)
 
 - ### Python 微信公众号开发—小白篇(一)
+
+### test
 
 - ### Python 公众号开发—颜值检测
 
